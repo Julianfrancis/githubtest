@@ -23,7 +23,7 @@ dog_one = Dog("Sparky", "Husky", 5)
 
 dog_two = Dog("Roxy", "Shepard", 6)
 
-dog_three = Dog("Max", "sausage", 9)
+dog_three = Dog("Max", "sausage", 11)
 
 dog_one.become_friends(dog_two, dog_three)
 
